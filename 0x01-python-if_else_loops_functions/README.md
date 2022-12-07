@@ -1,6 +1,3 @@
-# 0x01-python-if_else_loops_functions :tram:
-
-## Introduction :guitar: 
 
 Project aimed at if/else, loops, functions
 
@@ -31,6 +28,3 @@ Project aimed at if/else, loops, functions
 | ByteCode -> Python #2 |  Write the Python function def magic_calculation(a, b, c): that does exactly the same as the following Python bytecode. |
 
 
-## Author :octocat:
-
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
