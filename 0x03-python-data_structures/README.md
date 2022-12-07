@@ -1,5 +1,4 @@
 # 0x03. Python - Data Structures: Lists, Tuples :computer:
-![img-import-&-modules](https://cdn.educba.com/academy/wp-content/uploads/2019/06/Python-Tuple-vs-List.jpg)
 
 ## Description :fax:
 
@@ -31,6 +30,4 @@ Project aimed at  Data Structures: Lists, Tuples
 | CPython #0: Python lists | CPython is the reference implementation of the Python programming language. Written in C, CPython is the default and most widely used implementation of the language. Since we now know a bit of C, we can look at what is happening under the hood of Python. Let’s have fun with Python and C, and let’s look at what makes Python so easy to use. |
 
 
-## Author :octocat:
 
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
