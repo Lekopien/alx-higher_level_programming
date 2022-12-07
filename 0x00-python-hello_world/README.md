@@ -1,10 +1,6 @@
-# 0x00-python-hello_world :telescope:
-
-## Description :headphones:
 
 First project on working with Python.
 
-## Mandatory Tasks :office:
 
 | Files | Description |
 | ----- | ----------- |
@@ -28,6 +24,3 @@ First project on working with Python.
 | 101-compile | Compiles a Python script |
 | 102-magic_calculation.py | Does exactly what a given bit of Python bytecode |
 
-## Author :octocat:
-
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
