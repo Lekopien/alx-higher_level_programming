@@ -22,6 +22,3 @@ Project aimed at More Classes and Objects
 | A square is a rectangle | Write a class ```Rectangle``` that defines a rectangle by: (based on ```8-rectangle.py)``` |
 
 
-## Author :octocat:
-
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911) 
