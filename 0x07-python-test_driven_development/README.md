@@ -19,11 +19,5 @@ Project aimed at Test-driven development
 
 ## Advanced Tasks :light_rail:
 
-| Files | Description |
-| ----- | ----------- |
-| Matrix multiplication  | Write a function that multiplies 2 matrices: |
-| Lazy matrix multiplication  | Write a function that multiplies 2 matrices by using the module [NumPy](https://numpy.org/) |
 
-## Author :octocat:
 
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
