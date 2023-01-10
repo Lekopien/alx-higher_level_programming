@@ -21,6 +21,3 @@ Python project dealing with classes and inheritance.
 | 10-square.py | Creates a class `Square` that inherits from `Rectangle` that instantiates the `width` and `height` variables in the `__init__` method and implements the `area()` method |
 | 11-square.py | Updates class `Square` to implement the `print()` and `str()` methods |
 
-## Author :octocat:
-
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
