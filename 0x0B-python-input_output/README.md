@@ -25,6 +25,4 @@ Project dealing with input and output in Python.
 | 14-pascal_triangle.py | Function that returns a matrix of integers representing the Pascal's triangle of `n` |
 
 
-## Author :octocat:
 
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
